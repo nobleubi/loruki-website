@@ -448,11 +448,10 @@ body {
 }
 
 .product-item img {
-  width: 100%;
-  max-width: 200px; /* Ensures images are not too large */
+  width: 150px; /* Reduced size for images */
   height: auto;
-  border-radius: 8px;
   margin-top: 15px;
+  border-radius: 8px;
   transition: opacity 0.3s ease;
 }
 
@@ -472,4 +471,5 @@ body {
     grid-template-columns: 1fr; /* 1 item per row on mobile */
   }
 }
+
 
