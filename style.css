@@ -115,7 +115,7 @@ img {
 }
 
 .showcase-form input[type='text'],
-.showcase-form input[type='email'] {
+.showcase-form input[type='tel'] {
     border: 0;
     border-bottom: 1px solid #b4becb;
     width: 100%;
